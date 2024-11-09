@@ -1,0 +1,15 @@
+@media screen and (max-width:667px) {
+    .col-container{
+        flex-direction: column;
+        height: 185vh;
+    }
+    .col-1{
+        border-top-right-radius:5px;
+        border-bottom-left-radius: 0px;    
+    }
+    .col-3{
+        border-top-right-radius:0px;
+        border-bottom-left-radius: 5px;
+    }
+
+}
